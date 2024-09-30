@@ -1,0 +1,38 @@
+.top-bar {
+  padding-block: 24px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @include ontablet {
+    padding-block: 36px;
+  }
+
+  &__logo-link {
+    display: flex;
+  }
+
+  &__logo {
+    height: 38px;
+
+    &--white {
+      cursor: url(/src/images/cursors/Vector2.svg), default;
+    }
+
+    &--dark {
+      cursor: url(/src/images/cursors/Vector3.svg), default;
+    }
+
+    @include hover(transform, scale(1.2));
+
+    @include ontablet {
+      height: 56px;
+    }
+  }
+
+  &__icons {
+    display: flex;
+    gap: 24px;
+  }
+}
