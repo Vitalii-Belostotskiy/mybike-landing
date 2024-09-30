@@ -9,4 +9,4 @@
 
 > [CODE LINK](https://github.com/Vitalii-Belostotskiy/mybike-landing)
 
-> [MOCKAP LINK](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=0NY99iuCLm5wF8dN-0)
+> [MOCKUP LINK](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=0NY99iuCLm5wF8dN-0)
