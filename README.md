@@ -1,4 +1,4 @@
-# MYBIKE landing
+# Wheels & Deals
 
 > A brief description of the project:
   - Landing page that advertises some models of bicycles with different characteristics.
