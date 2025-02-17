@@ -1,4 +1,7 @@
 .compare-bikes {
+  @include ondesktop {
+    margin: 0 auto;
+  }
   &__products {
     @include pagegrid;
 

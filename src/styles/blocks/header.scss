@@ -23,10 +23,12 @@
 
     @include ontablet {
       font-size: 64px;
+      line-height: 64px;
     }
 
     @include ondesktop {
       font-size: 80px;
+      line-height: 80px;
     }
   }
 

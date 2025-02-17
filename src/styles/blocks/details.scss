@@ -6,6 +6,10 @@
     @include ontablet {
       row-gap: 48px;
     }
+
+    @include ondesktop {
+      justify-content: center;
+    }
   }
 }
 
